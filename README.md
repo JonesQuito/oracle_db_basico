@@ -19,4 +19,7 @@
 - [X] 8 - OPERADOR LIKE Oracle SQL develop
 - [X] 9 - OPERADOR BETWEEN Oracle SQL develop
 - [X] 10 - OPERADOR IN Oracle SQL develop
+- [X] 11 - DISTINCT Oracle SQL develop
+- [X] 12 - CREATE TABLE PRIMARY KEY Oracle SQL develop
+- [X] 13 - PRIMARY KEY Oracle SQL develop
 
