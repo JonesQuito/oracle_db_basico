@@ -15,4 +15,8 @@
 - [x] 4 - Insert table Oracle SQL develop
 - [X] 5 - Select table Oracle SQL develop
 - [X] 6 - ORDER BY Oracle SQL develop
+- [X] 7 - RESTRIÇÃO WHERE Oracle SQL develop
+- [X] 8 - OPERADOR LIKE Oracle SQL develop
+- [X] 9 - OPERADOR BETWEEN Oracle SQL develop
+- [X] 10 - OPERADOR IN Oracle SQL develop
 
