@@ -12,5 +12,6 @@
 - [X] Instalando Oracle 11 g
 - [X] Instalação do SQL develop
 - [X] Criando uma tabela
-- [] Insert table Oracle SQL develop
+- [x] Insert table Oracle SQL develop
+- [X] Select table Oracle SQL develop
 
