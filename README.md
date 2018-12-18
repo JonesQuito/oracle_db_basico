@@ -14,4 +14,5 @@
 - [X] 3 - Criando uma tabela
 - [x] 4 - Insert table Oracle SQL develop
 - [X] 5 - Select table Oracle SQL develop
+- [X] 6 - ORDER BY Oracle SQL develop
 
