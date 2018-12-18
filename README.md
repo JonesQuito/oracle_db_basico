@@ -11,6 +11,6 @@
 ## Aulas concluídas
 - [X] Instalando Oracle 11 g
 - [X] Instalação do SQL develop
-- [] Criando uma tabela
+- [X] Criando uma tabela
 - [] Insert table Oracle SQL develop
 
